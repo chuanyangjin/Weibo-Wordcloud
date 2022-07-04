@@ -1,2 +1,2 @@
 # weibo_wordcloud
-crawl Weibo data based on keywords and generate word cloud 
+Crawl Weibo data based on keywords and generate word cloud.
